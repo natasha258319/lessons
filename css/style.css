@@ -81,3 +81,31 @@ li {
 button {
   cursor: pointer;
 }
+
+/* style preview 
+----------------*/
+
+h1{
+  font:700 60px/1.35 "Roboto", sans-serif ;
+  padding: 0 0 0 24px;
+}
+p{
+  width: ;
+  font:400 24px/1.35 "Roboto", sans-serif ;
+  padding: 42px 39px 26px 24px;
+}
+.preview{
+background:#F0EFEB;
+display: flex;
+}
+div{
+width:544px ;
+  margin: 90px 73px 89.81px 164px;
+}
+.preview-img{
+width: 599px;
+margin: 9px 60px 24px 0;
+}
+a{
+padding: 0 0 0 24px;
+}
